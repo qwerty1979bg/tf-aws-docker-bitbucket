@@ -2,7 +2,7 @@
 
 This repository contains terraform code that creates an AWS EC2 *spot* instance running BitBucket Server
 
-* NOTE: The server starts open to the world, so go in and set a password * 
+## ** NOTE: The server starts open to the world, so go in and set a password **
 
 ## Prerequisites:
 1. AWS account
