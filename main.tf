@@ -3,9 +3,7 @@ variable "aws_access_key" {}
 
 variable "aws_secret_key" {}
 
-variable "key_name" {
-  default = "macos"
-}
+variable "key_name" {}
 
 variable "ami_name" {
   default = "ami-0f9cf087c1f27d9b1"
